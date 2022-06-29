@@ -1,0 +1,55 @@
+.zero{
+    color: red;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.First{
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ol{
+    color: brown;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.ul{
+    color: brown;
+    font-display: 1px;
+    font-family:Monospace;
+    color: brown;
+    font-size: 15px ;
+}
+
+.p{
+    color: brown;
+    font-display: 15px;
+    font-size: small;
+    font-weight:bold;
+}
+
+.a{
+    color: red;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.p1{
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+.one{
+    background-color: yellow;
+}
+
+.two{
+    text-decoration: line-through;
+}
+
